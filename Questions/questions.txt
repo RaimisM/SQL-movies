@@ -1,0 +1,28 @@
+Level 1
+    1. List the names of all actors born in 2015.
+
+    2. List all movie titles containing the word "Jurassic".
+
+    3. List the titles and release years of Star Wars movies that were released in the 1980s.
+
+Level 2
+    4. Find the titles of movies released in the 1990s and directed by Steven Spielberg.
+
+    5. List the top 10 actors who appear most frequently in the database, along with the number of movies they have starred in.
+
+    6. List the top 5 most prolific director-actors—those who have both directed and starred in the most movies.
+
+Level 3
+    7. Find all movies in which Tom Hanks starred that have a rating higher than 8, sorted by movie title.
+
+    8. Find the movie title, year, and rating of movies directed by Clint Eastwood with a rating above 7.
+
+    9. List the top 5 highest-rated movies directed by Steven Spielberg that have received more than 1,000,000 votes.
+
+Level 4
+    10. Find the average movie rating for each director and order the directors by their average rating, from highest to lowest.
+
+    11. The Lord of the Rings: The Two Towers is the best LOTR movie. Write a query to update its rating to 10.
+
+    12.Write a Node.js script that takes a year as a command-line argument and returns the title and rating of the top 10
+    highest-rated movies from that year.
