@@ -1,6 +1,12 @@
 # Ignore private SSH keys
-*.pem
-*.key
-*.pub
+key
+key.pub
+
+# Ignore other common SSH keys
 id_rsa
 id_rsa.pub
+*.key
+*.pem
+
+# Ignore the entire SSH directory (optional)
+.ssh/
