@@ -69,12 +69,10 @@
     GROUP BY name HAVING COUNT(directors.movie_id) >= 10
     ORDER BY AVG(rating) DESC LIMIT 10;
 
-11. The Lord of the Rings: The Two Towers is the best LOTR movie. Write a query to update its rating to 10.
-    UPDATE ratings
-    SET rating = 10
-    WHERE movie_id =
-    (SELECT id FROM movies WHERE title = 'The Lord of the Rings: The Two Towers');
+11. Create a Node.js script to update movie ratings in a database. The script should take a movie title and rating
+    as command line arguments. Use this script to update the rating for 'The Lord of the Rings: The Two Towers'.
+    for answer check answer11.js
 
-12.Write a Node.js script that takes a year as a command-line argument and returns the title and rating of the top 10
+12. Write a Node.js script that takes a year as a command-line argument and returns the title and rating of the top 10
 highest-rated movies from that year.
     for answer check answer12.js
