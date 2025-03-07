@@ -74,5 +74,5 @@
     for answer check answer11.js
 
 12. Write a Node.js script that takes a year as a command-line argument and returns the title and rating of the top 10
-highest-rated movies from that year.
+    highest-rated movies from that year.
     for answer check answer12.js
