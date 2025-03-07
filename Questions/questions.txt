@@ -22,7 +22,8 @@ Level 3
 Level 4
     10. Find the average movie rating for each director and order the directors by their average rating, from highest to lowest.
 
-    11. The Lord of the Rings: The Two Towers is the best LOTR movie. Write a query to update its rating to 10.
+    11. Create a Node.js script to update movie ratings in a database. The script should take a movie title and rating
+    as command line arguments. Use this script to update the rating for 'The Lord of the Rings: The Two Towers'.
 
     12.Write a Node.js script that takes a year as a command-line argument and returns the title and rating of the top 10
     highest-rated movies from that year.
