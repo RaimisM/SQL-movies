@@ -5,6 +5,9 @@ Questions and answers to SQL mock interview
 ## Usage
 
 ```python
+# Install the required dependencies:
+npm install
+
 # Answers to CS50 questions
 1.sql - 13.sql 
 
